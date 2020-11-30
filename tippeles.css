@@ -1,0 +1,21 @@
+body {
+   margin-left: 50px;
+   margin-top: 20px;
+   font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+   background-color: #FFFFFF;
+}
+form {
+   width: 370px;
+   background: #C0C0C0;
+   padding-left: 20px;
+   padding-top: 20px;
+   padding-bottom: 10px;
+   border: 1px solid grey;
+}
+textarea {
+   font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+}
+input[type="text"], input[type="button"]{
+   font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+   font-size: 1em;
+}
